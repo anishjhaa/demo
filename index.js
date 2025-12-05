@@ -26,3 +26,6 @@ console.log(contactUs);
 
 const profile = "Profile section is added";
 console.log("Profile section added");
+
+const showMe = "Show ME Page added";
+console.log("Show me page added");
