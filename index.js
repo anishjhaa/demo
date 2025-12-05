@@ -29,3 +29,9 @@ console.log("Profile section added");
 
 const showMe = "Show ME Page added";
 console.log("Show me page added");
+
+const info = "Info Page added";
+console.log("Info page added");
+
+const video = "Video uploaded";
+console.log("Vide uploaded");
