@@ -14,3 +14,6 @@ console.log(mainSection);
 
 const asideSection = "Aside Section Added";
 console.log(asideSection);
+
+const articleSection = "Article Section Added";
+console.log(articleSection);
