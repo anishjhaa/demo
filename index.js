@@ -23,3 +23,9 @@ console.log(about);
 
 const contactUs = "Contact Us Page Added";
 console.log(contactUs);
+
+const profile = "Profile section is added";
+console.log("Profile section added");
+
+const nav = "Navbar added";
+console.log("Navbar added");
